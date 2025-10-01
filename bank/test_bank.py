@@ -18,3 +18,4 @@ def test_value5():
 
 def test_value6():
     assert value("What's up?") == 100
+    
