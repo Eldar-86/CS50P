@@ -2,7 +2,7 @@ import sys
 import requests
 
 
-api_request = requests.get(f"https://rest.coincap.io/v3/assets/bitcoin?apiKey=d63f9f832523e154bd98139692f694c5dd35e081f43515ce3ba067787019f678").json()
+api_request = requests.get(f"https://rest.coincap.io/v3/assets/bitcoin?apiKey=add_your_key_here").json()
 
 
 try:
