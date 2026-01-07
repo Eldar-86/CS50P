@@ -20,12 +20,12 @@ The project is structured as follows:
 ##### Project Structure:
 
 project/
-├── project.py
-├── test_project.py
-├── Text_Document.txt
-├── before1.jpg
-├── pdf_doc.pdf
-├── requirements.txt
+├── project.py    
+├── test_project.py    
+├── Text_Document.txt    
+├── before1.jpg    
+├── pdf_doc.pdf    
+├── requirements.txt    
 └── README.md
 
 
@@ -47,3 +47,4 @@ PyMuPDF (specifically fitz from PyMuPDF) for PDF handling.
 
 Dependencies can be installed by running:
 pip install -r requirements.txt
+
